@@ -6,6 +6,50 @@ Graph papers play a crucial role in the landscape of machine learning research, 
 
 In this repository, you'll find a rich assortment of graph papers categorised in different subtopics.
 
+## All Papers:
+- [Heterophily](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#heterophily)
+  - [Locality-Aware Graph Rewiring in GNNs](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#locality-aware-graph-rewiring-in-gnns)
+  - [Probabilistically Rewired Message-Passing Neural Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#probabilistically-rewired-message-passing-neural-networks)
+- [Graph Transformer](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#graph-transformer)
+  - [Training Graph Transformers via Curriculum-Enhanced Attention Distillation](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#training-graph-transformers-via-curriculum-enhanced-attention-distillation)
+  - [Transformers vs. Message Passing GNNs: Distinguished in Uniform](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#transformers-vs-message-passing-gnns-distinguished-in-uniform)
+  - [Polynormer: Polynomial-Expressive Graph Transformer in Linear Time](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#polynormer-polynomial-expressive-graph-transformer-in-linear-time)
+- [Spectral/Polynomial GNN](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#spectralpolynomial-gnn)
+  - [Learning Adaptive Multiresolution Transforms via Meta-Framelet-based Graph Convolutional Network](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#learning-adaptive-multiresolution-transforms-via-meta-framelet-based-graph-convolutional-network)
+  - [PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#polygcl-graph-contrastive-learning-via-learnable-spectral-polynomial-filters)
+- [Shape-aware Graph Spectral Learning](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#shape-aware-graph-spectral-learning)
+  - [HoloNets: Spectral Convolutions do extend to Directed Graphs](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#holonets-spectral-convolutions-do-extend-to-directed-graphs)
+- [Text-attributed Graph](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#text-attributed-graph)
+  - [Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#harnessing-explanations-llm-to-lm-interpreter-for-enhanced-text-attributed-graph-representation-learning)
+- [Equivariant GNNs](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#equivariant-gnns)
+  - [Orbit-Equivariant Graph Neural Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#orbit-equivariant-graph-neural-networks)
+  - [Rethinking the Benefits of Steerable Features in 3D Equivariant Graph Neural Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#rethinking-the-benefits-of-steerable-features-in-3d-equivariant-graph-neural-networks)
+  - [Clifford Group Equivariant Simplicial Message Passing Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#clifford-group-equivariant-simplicial-message-passing-networks)
+  - [Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#graph-neural-networks-for-learning-equivariant-representations-of-neural-networks)
+- [Theory, Weisfeiler & Leman go](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#theory-weisfeiler--leman-go)
+  - [G^2N^2: Weisfeiler and Lehman go grammatical](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#g2n2--weisfeiler-and-lehman-go-grammatical)
+  - [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#beyond-weisfeiler-lehman-a-quantitative-framework-for-gnn-expressiveness)
+- [GDiffusion-based generation](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#gdiffusion-based-generation)
+  - [Graph Generation with $K^2$-trees](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#graph-generation-with--k2-trees)
+- [Contrastive Learning](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#contrastive-learning)
+  - [PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#polygcl-graph-contrastive-learning-via-learnable-spectral-polynomial-filters)
+- [Proteins](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#contrastive-learning)
+  - [Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#rigid-protein-protein-docking-via-equivariant-elliptic-paraboloid-interface-prediction)
+- [Proteins,Crystals and Material Generation](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#proteinscrystals-and-material-generation)
+  - [Space Group Constrained Crystal Generation](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#space-group-constrained-crystal-generation)
+  - [Scalable Diffusion for Materials Generation](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#scalable-diffusion-for-materials-generation)
+  - [MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#mofdiff-coarse-grained-diffusion-for-metal-organic-framework-design)
+- [Causality](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#causality)
+  - [Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#causality-inspired-spatial-temporal-explanations-for-dynamic-graph-neural-networks)
+- [Anomaly Detection](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#anomaly-detection)
+  - [Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#rayleigh-quotient-graph-neural-networks-for-graph-level-anomaly-detection)
+  - [Boosting Graph Anomaly Detection with Adaptive Message Passing](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#boosting-graph-anomaly-detection-with-adaptive-message-passing)
+- [LLM](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#llm)
+  - [Talk like a Graph: Encoding Graphs for Large Language Models](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#talk-like-a-graph-encoding-graphs-for-large-language-models)
+  - [Label-free Node Classification on Graphs with Large Language Models (LLMs)](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024?tab=readme-ov-file#label-free-node-classification-on-graphs-with-large-language-models-llms)
+
+
+
 
 
 ---
