@@ -2,7 +2,10 @@
 
 This repo contains a comprehensive compilation of graph papers that were presented at the esteemed International Conference on Learning Representations (ICLR) in the year 2024. Graph or Geometric machine learning possesses an indispensable role within the domain of machine learning research, providing invaluable insights, methodologies, and solutions to a diverse array of challenges and problems. Whether it entails pioneering architectures, optimization techniques, theoretical analyses, or empirical investigations, these papers make substantial contributions towards the advancement of the field. All the papers categorised in different subtopics.
 
-# **All Papers:**
+# **All Papers:** 
+<details open>
+  <summary>View paper list!</summary>
+
 - [**Heterophily**](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#heterophily)
   - [Locality-Aware Graph Rewiring in GNNs](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#locality-aware-graph-rewiring-in-gnns)
   - [Probabilistically Rewired Message-Passing Neural Networks](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#probabilistically-rewired-message-passing-neural-networks)
@@ -45,7 +48,7 @@ This repo contains a comprehensive compilation of graph papers that were present
   - [Talk like a Graph: Encoding Graphs for Large Language Models](#talk-like-a-graph-encoding-graphs-for-large-language-models)
   - [Label-free Node Classification on Graphs with Large Language Models (LLMs)](#label-free-node-classification-on-graphs-with-large-language-models-llms)
 
-
+</details>
 
 ---
 ---
@@ -55,7 +58,7 @@ This repo contains a comprehensive compilation of graph papers that were present
 ### Locality-Aware Graph Rewiring in GNNs
 > The main contribution of this work is a novel graph rewiring framework that simultaneously reduces over-squashing, respects graph locality, and preserves sparsity, outperforming existing techniques on real-world benchmarks.
 
-<details>
+<details open>
   <summary>Details</summary>
   
 
