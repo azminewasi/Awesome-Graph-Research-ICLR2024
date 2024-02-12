@@ -1,8 +1,6 @@
 # Awesome ICLR 2024 Graph Paper Collection
 
-This repository has been established to curate a comprehensive compilation of graph papers that were presented at the esteemed International Conference on Learning Representations (ICLR) in the year 2024. ICLR stands as one of the foremost platforms for showcasing the most cutting-edge progressions in the realms of machine learning and artificial intelligence, drawing in top-tier researchers, practitioners, and experts from across the globe.
-
-Graph or Geometric machine learning possesses an indispensable role within the domain of machine learning research, providing invaluable insights, methodologies, and solutions to a diverse array of challenges and problems. Whether it entails pioneering architectures, optimization techniques, theoretical analyses, or empirical investigations, these papers make substantial contributions towards the advancement of the field.
+This repo contains a comprehensive compilation of graph papers that were presented at the esteemed International Conference on Learning Representations (ICLR) in the year 2024. Graph or Geometric machine learning possesses an indispensable role within the domain of machine learning research, providing invaluable insights, methodologies, and solutions to a diverse array of challenges and problems. Whether it entails pioneering architectures, optimization techniques, theoretical analyses, or empirical investigations, these papers make substantial contributions towards the advancement of the field.
 
 In this repository, you'll find a rich assortment of graph papers categorised in different subtopics.
 
