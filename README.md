@@ -30,7 +30,7 @@ This repo contains a comprehensive compilation of graph papers that were present
 - [Contrastive Learning](#contrastive-learning)
   - [PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024#polygcl-graph-contrastive-learning-via-learnable-spectral-polynomial-filters)
   - [A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks]()
-- [Proteins](#contrastive-learning)
+- [Proteins](#a-graph-is-worth-1-bit-spikes-when-graph-contrastive-learning-meets-spiking-neural-networks)
   - [Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction](#rigid-protein-protein-docking-via-equivariant-elliptic-paraboloid-interface-prediction)
 - [Proteins,Crystals and Material Generation](#proteinscrystals-and-material-generation)
   - [Space Group Constrained Crystal Generation](#space-group-constrained-crystal-generation)
@@ -44,8 +44,6 @@ This repo contains a comprehensive compilation of graph papers that were present
 - [LLM](#llm)
   - [Talk like a Graph: Encoding Graphs for Large Language Models](#talk-like-a-graph-encoding-graphs-for-large-language-models)
   - [Label-free Node Classification on Graphs with Large Language Models (LLMs)](#label-free-node-classification-on-graphs-with-large-language-models-llms)
-
-
 
 
 
