@@ -458,6 +458,22 @@ Based on the above analysis, a natural question arises: *Can we incorporate the 
 </details>
 
 ---
+---
+
+# Angular Synchronization
+
+### Robust Angular Synchronization via Directed Graph Neural Networks
+> They propose a neural network framework with novel loss functions to tackle the angular synchronization problem and its extension to k-synchronization.
+<details>
+  <summary>Details</summary>
+  
+**Abstract:** "The angular synchronization problem aims to accurately estimate (up to a constant additive phase) a set of unknown angles $\theta_1, \dots, \theta_n\in[0, 2\pi)$ from $m$ noisy measurements of their offsets $\theta_i-\theta_j$ mod $2\pi.$ Applications include, for example, sensor network localization, phase retrieval, and distributed clock synchronization. 
+An extension of the problem to the heterogeneous setting (dubbed $k$-synchronization) is to estimate $k$ groups of angles simultaneously, given noisy observations (with unknown group assignment) from each group. Existing methods for angular synchronization usually perform poorly in high-noise regimes, which are common in applications. In this paper, we leverage neural networks for the angular synchronization problem, and its heterogeneous extension, by proposing GNNSync, a theoretically-grounded end-to-end trainable framework using directed graph neural networks. In addition, new loss functions are devised to encode synchronization objectives. Experimental results on extensive data sets demonstrate that GNNSync attains competitive, and often superior, performance against a comprehensive set of baselines for the angular synchronization problem and its extension, validating the robustness of GNNSync even at high noise levels."
+
+- OpenReview: https://openreview.net/forum?id=5sjxMwWmk8
+
+![](fig/5sjxMwWmk8.jpg)
+---
 
 **Missing any paper?**
 If any paper is absent from the list, please feel free to [open an issue](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024/issues/new/choose) or submit a pull request. I'll gladly add that!
