@@ -480,6 +480,11 @@ If any paper is absent from the list, please feel free to [open an issue](https:
 
 ---
 
+## More Collectons:
+- [**BreadcrumbsAwesome-LLMs-ICLR-24**](https://github.com/azminewasi/Awesome-LLMs-ICLR-24/)
+
+---
+
 ## ✨ **Credits**
 **Azmine Toushik Wasi**
 
