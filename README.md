@@ -481,7 +481,12 @@ If any paper is absent from the list, please feel free to [open an issue](https:
 ---
 
 ## More Collectons:
-- [**BreadcrumbsAwesome-LLMs-ICLR-24**](https://github.com/azminewasi/Awesome-LLMs-ICLR-24/)
+- [**Awesome-LLMs-ICLR-24**](https://github.com/azminewasi/Awesome-LLMs-ICLR-24/)
+- [Awesome **NeurIPS'24** ***Molecular ML*** Paper Collection](https://github.com/azminewasi/Awesome-MoML-NeurIPS24)
+- [**Awesome NeurIPS 2024 Graph Paper Collection**](https://github.com/azminewasi/Awesome-Graph-Research-NeurIPS2024)
+- [**Awesome ICML 2024 Graph Paper Collection**](https://github.com/azminewasi/Awesome-Graph-Research-ICML2024)
+- [**Awesome ICLR 2024 Graph Paper Collection**](https://github.com/azminewasi/Awesome-Graph-Research-ICLR2024)
+- [**Awesome-LLMs-ICLR-24**](https://github.com/azminewasi/Awesome-LLMs-ICLR-24/)
 
 ---
 
